@@ -21,7 +21,6 @@ public class A {
 
     public void ma2(){
         System.out.println("Nome do Método: ma2");
-
     }
     
 }
