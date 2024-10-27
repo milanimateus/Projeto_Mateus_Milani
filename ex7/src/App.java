@@ -20,6 +20,14 @@ public class App {
         classeB.mb1();
         classeB.mb2();
 
+        //Exercicio 13
+        classeA.ma3();
+
+        String c1 = sc.nextLine();
+        
+        C classeC = new C(c1, a1);
+        classeC.mc1();
+        classeC.mc2();
 
         sc.close();
     }

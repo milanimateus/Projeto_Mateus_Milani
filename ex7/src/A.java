@@ -23,4 +23,7 @@ public class A {
         System.out.println("Nome do Método: ma2");
     }
     
+    public void ma3(){
+        System.out.println("Alterando a classe A e inserindo o métododo ma3");
+    }
 }
