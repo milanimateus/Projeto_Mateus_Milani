@@ -16,11 +16,14 @@ public class C {
     }
 
     public void mc1(){
-        System.out.println("Nome do método: mc1()");
+        System.out.println("Nome do Método: mc1()");
     }
 
     public void mc2(){
-        System.out.println("Nome do método: mc2()");
+        System.out.println("Nome do Método: mc2()");
     }
     
+    public void mc3(){
+        System.out.println("Nome do Método: mc3()");
+    }
 }

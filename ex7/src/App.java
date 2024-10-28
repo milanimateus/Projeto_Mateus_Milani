@@ -14,11 +14,12 @@ public class App {
         System.out.println("Imprimir o nome dos métodos da classe A:");
         classeA.ma1();
         classeA.ma2();
-
+        
         B classeB = new B(a1, a2);
         System.out.println("Imprimir o nome dos métodos da classe B");
         classeB.mb1();
         classeB.mb2();
+        classeB.mb3();
 
         //Exercicio 13
         classeA.ma3();
@@ -28,6 +29,7 @@ public class App {
         C classeC = new C(c1, a1);
         classeC.mc1();
         classeC.mc2();
+        classeC.mc3();
 
         sc.close();
     }

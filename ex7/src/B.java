@@ -16,12 +16,15 @@ public class B {
     }
 
     public void mb1(){
-        System.out.println("Nome do Método: mb1");
+        System.out.println("Nome do Método: mb1()");
     }
 
     public void mb2(){
-        System.out.println("Nome do Método: mb2");
+        System.out.println("Nome do Método: mb2()");
 
     }
     
+    public void mb3(){
+        System.out.println("Nome do Método: mb3()");
+    }
 }
