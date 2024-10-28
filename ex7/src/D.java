@@ -22,4 +22,8 @@ public class D {
     public void md2(){
         System.out.println("Nome do Método: md2()");
     }
+    
+    public void md3(){
+        System.out.println("Nome do Método: md3()");
+    }
 }
