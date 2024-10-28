@@ -23,7 +23,11 @@ public class D {
         System.out.println("Nome do Método: md2()");
     }
     
+    public void md3(){
+        System.out.println("Nome do Método: md3()");
+    }
+
     public void md4(){
-        System.out.println("Nome do Método: md4()")
+        System.out.println("Nome do Método: md4()");
     }
 }
