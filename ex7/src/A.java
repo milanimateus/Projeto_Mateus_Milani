@@ -26,5 +26,9 @@ public class A {
     public void ma3(){
         System.out.println("Alterando a classe A e inserindo o método ma3");
     }
+
+    public int getSoma(int a, int b){
+        return (a+b);
+    }
     
 }
